@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co/YT2xxDjf/snugbug.png"  />
+  <img height="500" src="https://i.ibb.co/YT2xxDjf/snugbug.png"  />
 </div>
 
 ###
@@ -23,8 +23,6 @@ to discuss what you would like to change.
 ## Project Status
 
 This project is ongoing and still in development. We are planning on unifying the script and adding more features.
-
-![Logo](https://public-files.gumroad.com/96zbwtqevi114xvudd40tg51j1my)
 
 <div align="center">
   <img height="200" src="https://public-files.gumroad.com/96zbwtqevi114xvudd40tg51j1my"  />
